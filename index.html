@@ -8,5 +8,13 @@
 </head>
 <body>
     <h1 x-data="{ message: 'Hey! Davyd\'s here' }" x-text="message"></h1>
+    <div x-data="{ joke: ''}"
+        x-init="$nextTick(fetch('https://api.chucknorris.io/jokes/random')
+            .then(response => response.json())
+            .then(response => { joke = response.value })
+        );"
+    >
+       <p x-text="joke" x-show="joke.length > 0"></p>
+    </div>
 </body>
 </html>
