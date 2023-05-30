@@ -1,7 +1,56 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
 
+
+/* Base styles for all devices */
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #edf6f9;
-}
-
+    font-size: 36px;
+    line-height: 1.5;
+  }
+  
+  /* Media query for small devices (mobile phones) */
+  @media (max-width: 767px) {
+    body {
+      font-size: 94px;
+    }
+  
+    p {
+      font-size: 94px;
+    }
+  
+    h1 {
+      font-size: 78px;
+    }
+  }
+  
+  /* Media query for medium devices (tablets) */
+  @media (min-width: 768px) and (max-width: 1023px) {
+    body {
+      font-size: 74px;
+    }
+  
+    p {
+      font-size: 74px;
+    }
+  
+    h1 {
+      font-size: 70px;
+    }
+  }
+  
+  /* Media query for large devices (desktops) */
+  @media (min-width: 1024px) {
+    body {
+      font-size: 36px;
+    }
+  
+    p {
+      font-size: 36px;
+    }
+  
+    h1 {
+      font-size: 32px;
+    }
+  }
+  
