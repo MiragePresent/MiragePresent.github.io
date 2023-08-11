@@ -2,7 +2,7 @@
 layout: post
 title: Чим замінити Telegram?
 date: 2023-07-29 19:18:00
-categories: [personal, Ukrainian only]
+categories: [Ukrainian only, others]
 ---
 
 ![What could replace telegram](/assets/thumbnails/2023-07-26-1918-what-could-replace-telegram.jpg)
