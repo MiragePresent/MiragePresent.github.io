@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Return early and how it works in examples
-date: 2023-08-07 11:52:02
+date: 2023-08-11 11:52:02
 categories: [English only, programming]
 ---
 
