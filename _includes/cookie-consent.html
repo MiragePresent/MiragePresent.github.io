@@ -32,8 +32,11 @@
     }
 
     if(readCookie('cookie-notice-dismissed')=='true') {
-        {% include ga.js %}
-        {% include chatbutton.js %}
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '{{ site.google_analytics }}');
     } else {
         document.getElementById('cookie-notice').style.display = 'block';
     }
