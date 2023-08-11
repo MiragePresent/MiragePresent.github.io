@@ -9,16 +9,16 @@ categories: [personal]
 
 Hey There! I'm Davyd (David) Holovii and here I'm sharing my thought on things that surround me or I'm interested in.
 
-Let  me tell a few words about myself. I'm from Ukraine, I have beautiful wife and I like programming and tech stuff. Yep, tech stuff is a big part of my life and majority of articles here are going to be about programming, devices and tools I use, and maybe little bit about smart homes. 
+Let me tell a few words about myself. I'm from Ukraine, I have a beautiful wife and I like programming and tech stuff. Yep, tech stuff is a big part of my life and the majority of articles here are going to be about programming, devices and tools I use, and other little things here and there. 
 
-Check the links below in case you wanna stay in touch :wink:
+Make sure you checked the links at the bottom in case you wanna stay in touch :wink:
 
 :ukraine:
 
-Привіт! Я Давид Головій і якщо ти читаєш це українською то найімовірніше ти мене знаєш особисто. Якщо ні, тоді -- ого, радий, що ти тут і читаєш мою писанину :smile: 
+Привіт! Я Давид Головій і якщо ти читаєш це українською то найімовірніше ти знаєш мене особисто. Якщо ж ми не знайомі тоді я радий, що ти тут і читаєш мою писанину :smile: 
 
-Тут я ділюсь своїми думками про те, що мене оточує і чим я цікавлюсь, більше тим чим я цікавлюсь.
+Тут я ділюсь своїми думками про те, що мене оточує і чим цікавлюсь, більше тим чим цікавлюсь.
 
-Декілька слів про себе. Я маю красоню-дружину, люблю програмування і технології. Так, і це дуже велика частина мого життя. Більшість статей тут будуть про програмування, пристрої та інструменти які я використовую і можливо трохи про розумний будинок. 
+Декілька слів про себе. Я маю красуню-дружину, люблю програмування і вирішувати різні проблеми за допомогою технології. Більшість статей тут будуть про програмування, пристрої та інструменти які я використовую і різні речі які мені здались цікавими. 
 
-О, глянь внизу мої соц мережі якщо хочеш залишатись на зв'язку :wink:
+О, а ще глянь внизу мої соц мережі якщо хочеш залишатись на зв'язку :wink:

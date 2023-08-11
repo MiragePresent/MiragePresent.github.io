@@ -1,10 +1,13 @@
 <footer>
-  <div class="social-links">
+  <div class="social-links env-{{ jekyll.environment }}">
     {% for i in site.data.author.contact %}
     <a href="{{i.url}}" target="_blank">
       <img src="{{site.baseurl}}/assets/icons/{{i.title}}.png" alt="" />
     </a>
     {%endfor%}
+    <a href="https://stand-with-ukraine.pp.ua" target="_blank" class="stand-with-ukraine" title="Stand with Ukraine">
+      <img alt="Stand with Ukraine" src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg">
+    </a>
   </div>
   <p>&copy; {{ 'now' | date: "%Y" }} | {{site.title}}</p>
 </footer>

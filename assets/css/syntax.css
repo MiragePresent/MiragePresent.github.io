@@ -7,7 +7,7 @@
   color: #ffffff;
 }
 .highlight .c {
-  color: #008800;
+  color: #667095;
   font-style: italic;
   /* background-color: #0f140f; */
 } /* Comment */
@@ -18,8 +18,7 @@
   color: #ffffff;
 } /* Generic */
 .highlight .k {
-  color: #fb660a;
-  font-weight: bold;
+  color: #f47fbd;
 } /* Keyword */
 .highlight .l {
   color: #ffffff;
@@ -110,18 +109,16 @@
   font-weight: bold;
 } /* Keyword.Reserved */
 .highlight .kt {
-  color: #cdcaa9;
-  font-weight: bold;
+  color: #b59ce2;
 } /* Keyword.Type */
 .highlight .ld {
   color: #ffffff;
 } /* Literal.Date */
 .highlight .m {
   color: #0086f7;
-  font-weight: bold;
 } /* Literal.Number */
 .highlight .s {
-  color: #0086d2;
+  color: #59e692;
 } /* Literal.String */
 .highlight .na {
   color: #ff0086;
