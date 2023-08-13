@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Чим замінити Telegram?
-date: 2023-07-29 19:18:00
+date: 2023-08-10 19:18:00
 categories: [Ukrainian only, others]
 ---
 
