@@ -138,6 +138,6 @@ As you can see I can't do anything to avoid nested conditions in this function b
 
 First, you added something here then something there, then you have to add another condition somewhere inside and so on. Finally, you end up being afraid to touch that code because you don't remember why you need all these conditions and the function is used in so many places so you don't want to break anything. Sure that's a pessimistic scenario but it's quite real and happens quite often to long-living projects. I won't start talking a conversation about code smells this is an example of how early exit helps me see when I might do something wrong.
 
-## Concussions
+## Conclusions
 
 Although the early exit seems appealing, it's not a panacea. You shouldn't try to use it everywhere but it could be handy for some cases where you have complex or nested conditions. The code might take more space as you add more return statements and split conditions but you should question yourself if it improves the readability. You write the code once but you read it many times and if the early exit approach helps you understand your code better/faster then it might save you hours of your time at the end.  
