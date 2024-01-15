@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS Команди, не найгірша ідея!
-date: 2024-01-02 22:09:00
+date: 2024-01-15 10:09:00
 categories: [Ukrainian, ios, helpers]
 ---
 
